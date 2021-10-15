@@ -1,6 +1,6 @@
 # Password-Generator
 
-This is a README.md file for a second challenge of my coding bootcamp.
+This is a README.md file for a third challenge of my coding bootcamp.
 
 This project was made as a part of UMN's coding bootcamp. We were asked to create an application using using JavaScript to generate a random and secure password. 
 
