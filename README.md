@@ -22,6 +22,8 @@ This project has been deployed to GitHub Pages.
 ### Summary
 * This application utilizes HTML,CSS and Javascript to create a random password generator. Users have the option to copy the code to their clipbroad.
 
+![Overview](Assets/Images/Password-Generator.png)
+
 ## Authors
 
 * **Amara Mai Malekebu** - *Initial work* - [Git Hub Profile](https://github.com/AmaraMai)
