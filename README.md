@@ -12,39 +12,15 @@ This project is being deployed using Github Pages. Please view the links below f
 This project has been deployed to GitHub Pages. 
 
 * [GitHub Repository](https://github.com/AmaraMai/JS-Challenge-Password-Generator)
-* [Deployed GitHub IO](https://amaramai.github.io/JS-Challenge-Password-Generator/)
-* [Full Demo Video](INSERT)
+* [Deployed GitHub](https://amaramai.github.io/JS-Challenge-Password-Generator/)
+* [Demo Video](https://drive.google.com/file/d/1R0W3YHP6yq63tPpOWECYlXRloZONSLA9/view)
 
 
 
-![Password-Generator Demo](INSERT)
+![Password-Generator Demo](Assets/Images/Password-Generator Demo.gif) 
 
 ### Summary
-* HTML and CSS and Javascript documents create a random password generator 
-* This project emphasizes the use of using Javascript to make dynamic changes to an HMTL document
-
-![](INSERT)
-
-### This project has the following features: 
-* A generate button
-    * This will send the user a series of prompts and confirms
-    * After user data is collected, a random password will be generated using Javascript
-
-### Features: 
-* One HTML Pages
-    * Index.html 
-        * Contains basic user input items and buttons with divs and ids
-* One CSS Page
-    * Styles.css
-        * Contains centering and styling for html user input features
-        * Contains media queries
-* One Javascript Page
-        * Contains: 
-        * Variables, including arrays and value placeholders
-        * Two event listeners
-        * Two if/else if statements
-        * One function outside of first event listener
-
+* This application utilizes HTML,CSS and Javascript to create a random password generator. Users have the option to copy the code to their clipbroad.
 
 ## Authors
 
