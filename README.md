@@ -15,9 +15,7 @@ This project has been deployed to GitHub Pages.
 * [Deployed GitHub](https://amaramai.github.io/JS-Challenge-Password-Generator/)
 * [Demo Video](https://drive.google.com/file/d/1R0W3YHP6yq63tPpOWECYlXRloZONSLA9/view)
 
-
-
-![Password-Generator Demo](Assets/Images/Password-Generator Demo.gif) 
+<iframe src="https://drive.google.com/file/d/1R0W3YHP6yq63tPpOWECYlXRloZONSLA9/preview" width="640" height="480"></iframe>
 
 ### Summary
 * This application utilizes HTML,CSS and Javascript to create a random password generator. Users have the option to copy the code to their clipbroad.
